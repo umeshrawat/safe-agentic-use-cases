@@ -83,6 +83,7 @@ Safety rules (non‑negotiable): **no sensitive info, no exploit instructions, g
 | [SAFE-UC-0028](use-cases/SAFE-UC-0028/) | Fake-account & inauthentic behavior detection assistant | [Information (51)][naics-51] | Seed |
 | [SAFE-UC-0029](use-cases/SAFE-UC-0029/) | Automated ad campaign optimization assistant | [Professional, Scientific, and Technical Services (54)][naics-54] | Seed |
 | [SAFE-UC-0030](use-cases/SAFE-UC-0030/) | Teen safety & age-assurance enforcement assistant | [Information (51)][naics-51] | Seed |
+| [SAFE-UC-0031](use-cases/SAFE-UC-0031/) | Code review and security analysis assistant | [Professional, Scientific, and Technical Services (54)][naics-54] | Seed |
 
 ---
 

@@ -418,5 +418,18 @@
       }
     ],
     "summary": "Enforce teen safety/age assurance and related policy actions with privacy-preserving checks and robust appeals."
+  },
+  {
+    "id": "SAFE-UC-0031",
+    "title": "Code review and security analysis assistant",
+    "status": "seed",
+    "repo_path": "use-cases/SAFE-UC-0031/README.md",
+    "naics_2022": [
+      {
+        "code": "54",
+        "name": "Professional, Scientific, and Technical Services"
+      }
+    ],
+    "summary": "Automated code review assistant that analyzes pull requests, identifies security vulnerabilities, suggests improvements, and validates compliance with coding standards."
   }
 ]
