@@ -16,7 +16,7 @@ SAFE-AUCA reference guide for regulated margin governance workflows augmented wi
 ### Evidence (public)
 
 - [BCBS–IOSCO Margin Requirements for Non-Centrally Cleared Derivatives](https://www.bis.org/bcbs/publ/d317.htm)
-- [CFTC uncleared margin rule documentation](https://www.cftc.gov/IndustryOversight/Derivatives/UnclSwapMarginsRegs)
+- [17 CFR Part 23, Subpart E – Margin Requirements for Uncleared Swaps](https://www.ecfr.gov/current/title-17/chapter-I/part-23/subpart-E)
 - [ISDA SIMM methodology documentation](https://www.isda.org/category/margin/isda-simm/)
 - Public industry papers on AI in collateral management
 
